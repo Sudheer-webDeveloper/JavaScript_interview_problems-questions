@@ -1,0 +1,25 @@
+Soft skills 
+
+1)Why do you see yourself as the right fit for this role
+As a fresher in frontend development, I believe I am the right fit for this role because of the following reasons:
+
+Passion for frontend development: I have a genuine passion for frontend development and enjoy creating visually appealing and user-friendly websites. I constantly keep myself updated with the latest trends and technologies in frontend development.
+
+Strong foundation: I have a solid understanding of HTML, CSS, and JavaScript, which are the building blocks of frontend development. I have completed relevant coursework and personal projects to strengthen my skills in these areas.
+
+Quick learner and problem solver: As a beginner in the industry, I have a strong willingness to learn and adapt to new technologies and frameworks. I enjoy solving programming problems and finding efficient solutions to challenges that may arise during the development process.
+
+In summary, my passion for frontend development, strong foundation in core technologies, and my ability to learn quickly and solve problems make me a suitable candidate for this role.
+
+2)Why do you want to join Wingify?
+I have always admired Wingify's reputation as a leading tech company that prioritizes innovation and customer satisfaction. I believe joining Wingify would provide me with a dynamic and challenging environment where I can grow both professionally and personally. Moreover, being part of a team that focuses on creating impactful software solutions aligns perfectly with my career aspirations as a fresher in the industry.
+
+
+3) Why are you considering a job change at this point in your career?
+
+As a fresher, I am seeking a new job opportunity to gain practical experience and further develop my skills in a professional setting. I believe transitioning from an internship to a full-time role will provide me with a more comprehensive learning experience and allow me to contribute to a company's growth. Joining a new organization would also give me exposure to different projects and perspectives, which I find valuable for my career growth.
+
+
+4) Can you share one aspect of the job description or our company profile that stood out to you and how it relates to your interest in this role?
+
+One aspect of the job description that stood out to me is the emphasis on creating visually appealing and user-friendly interfaces. As a UI developer, I have a strong passion for designing intuitive and interactive experiences for users. This role aligns perfectly with my interest in utilizing my coding and design skills to craft visually stunning interfaces that enhance user engagement and satisfaction.
